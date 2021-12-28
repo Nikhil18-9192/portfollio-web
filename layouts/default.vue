@@ -59,6 +59,8 @@ p {
 .my-page-leave-active {
   transition: 0.3s ease all;
   opacity: 0;
-  transform: translateX(-100px);
+  // transform: translateX(-100px);
+  transform-origin: center;
+  transform: scale(1.02);
 }
 </style>
