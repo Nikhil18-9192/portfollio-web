@@ -15,7 +15,10 @@
           <a-textarea placeholder="Message" />
         </a-col>
         <a-col :span="24">
-          <a class="resume-btn" href="#">Send Message</a>
+          <a class="resume-btn" href="#">
+            <div class="overlay"></div>
+            Send Message</a
+          >
         </a-col>
       </a-row>
     </div>

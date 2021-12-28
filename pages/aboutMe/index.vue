@@ -38,7 +38,10 @@
               <a href="tel:9595756168" rel="noreferrer">9595756168</a>
             </p>
           </div>
-          <a class="resume-btn" href="#">Download Resume</a>
+          <a class="resume-btn" href="#">
+            <div class="overlay"></div>
+            Download Resume</a
+          >
         </a-col>
       </a-row>
       <a-row class="services" :gutter="30">
