@@ -6,7 +6,7 @@
     <div class="form">
       <a-row :gutter="[30, 50]">
         <a-col :span="12">
-          <a-input placeholder="Name" @change="test" />
+          <a-input placeholder="Name" />
         </a-col>
         <a-col :span="12">
           <a-input placeholder="Email" />
@@ -44,11 +44,7 @@
 <script>
 export default {
   name: "ContactForm",
-  methods: {
-    test() {
-      console.log("test");
-    },
-  },
+  methods: {},
 };
 </script>
 
@@ -66,7 +62,7 @@ export default {
     input {
       width: 100%;
       border-radius: 0;
-      border: 2px solid #999;
+      border: 2px solid $border-color;
       height: 40px;
       transition: all 0.5s ease;
       position: relative;
@@ -76,13 +72,13 @@ export default {
       &::placeholder {
         color: $white;
         font-weight: 500;
-        font-size: 18px;
+        font-size: 16px;
       }
     }
     textarea {
       width: 100%;
       border-radius: 0;
-      border: 2px solid #999;
+      border: 2px solid $border-color;
       transition: all 0.5s ease;
       height: 146px;
       position: relative;
@@ -92,7 +88,7 @@ export default {
       &::placeholder {
         color: $white;
         font-weight: 500;
-        font-size: 18px;
+        font-size: 16px;
       }
     }
   }

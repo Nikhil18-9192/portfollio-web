@@ -54,4 +54,11 @@ p {
   padding: 0;
   margin: 0;
 }
+
+.my-page-enter,
+.my-page-leave-active {
+  transition: 0.3s ease all;
+  opacity: 0;
+  transform: translateX(-100px);
+}
 </style>
