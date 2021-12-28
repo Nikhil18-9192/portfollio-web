@@ -14,7 +14,7 @@ export default {
   position: relative;
   width: 100%;
   height: 100vh;
-  background-image: url("/home-bg.jpg");
+  background-image: url("/bg.jpeg");
   background-size: cover;
   background-position: center;
   display: flex;
