@@ -1,0 +1,89 @@
+@mixin for-phone-only {
+    @media (max-width: 599px) {
+        @content;
+    }
+}
+@mixin for-tablet-portrait-up {
+    @media (min-width: 600px) {
+        @content;
+    }
+}
+@mixin for-tablet-landscape-up {
+    @media (min-width: 900px) {
+        @content;
+    }
+}
+@mixin for-desktop-up {
+    @media (min-width: 1200px) {
+        @content;
+    }
+}
+@mixin for-big-desktop-up {
+    @media (min-width: 1800px) {
+        @content;
+    }
+}
+@mixin for-tablet-only {
+    @media (min-width: 600px) and (max-width: 768px) {
+        @content;
+    }
+}
+
+$primary: #00a3e1;
+$bg: #2c2d2f;
+$sidebar-bg: #17181b;
+$white: #fff;
+$secondary-font: rgb(110, 110, 110);
+
+.sub-heading {
+    position: relative;
+    margin-bottom: 50px;
+    text-align: center;
+    h3 {
+        display: inline-block;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 1em;
+        letter-spacing: 0.5px;
+        position: relative;
+        text-transform: uppercase;
+        padding: 5px 10px;
+        border-bottom: 2px solid $primary;
+        color: $white;
+        font-family: "Playfair Display", serif;
+        &::before {
+            position: absolute;
+            content: "";
+            width: 2px;
+            height: 5px;
+            background: $primary;
+            bottom: 0;
+            left: 0;
+        }
+        &::after {
+            position: absolute;
+            content: "";
+            width: 2px;
+            height: 5px;
+            background: $primary;
+            bottom: 0;
+            right: 0;
+        }
+    }
+}
+
+.resume-btn {
+    border: 2px solid $primary;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    background-color: transparent;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    font-size: 14px;
+    color: $white;
+    font-weight: 500;
+    position: relative;
+    line-height: 100%;
+    letter-spacing: 1px;
+    color: $primary;
+}
