@@ -107,7 +107,7 @@ export default {
         background-color: #141c3a;
         right: 0;
         top: 0;
-        opacity: 0.95;
+        opacity: 0.99;
         transition: 0.2s ease all;
         padding: 25px 15px;
         display: flex;
