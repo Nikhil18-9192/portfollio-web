@@ -38,6 +38,7 @@ export default {
       height: 44px;
       bottom: 0;
       background: $primary;
+      opacity: 0.9;
       display: flex;
       align-items: center;
       justify-content: center;
