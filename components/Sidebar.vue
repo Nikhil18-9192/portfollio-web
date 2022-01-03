@@ -1,7 +1,7 @@
 <template>
   <div class="sidebar">
     <div class="image">
-      <img class="profile-image" src="/profile1.jpg" alt="profile image" />
+      <img class="profile-image" src="/profile.jpg" alt="profile image" />
       <div class="profile-name">
         <p>Nikhil Korane</p>
       </div>
