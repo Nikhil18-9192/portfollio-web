@@ -6,19 +6,22 @@
         <a-col :span="15">
           <h3>Front-end Web Developer</h3>
           <p>
-            Dolor reprehenderit aut repudiandae maiores recusandae. Consequatur
-            dolor nisi labore commodi ipsa? Excepturi velit laboriosam at
-            voluptatibus cupiditate est vel. Dolorem praesentium itaque fugiat
-            placeat quas consequatur? Obcaecati natus rerum
+            Passionate Front end web developer having 1.5+ years experience in
+            ReactJs, vueJs framework and converting designs into appealing
+            experiences using html5, scss to end users which are pixel perfect.
+            Good Knowledge of UI Design Principles. Can build user interfaces
+            which are not only visually attractive but also usable and
+            accessible across multiple devices providing seamless experience to
+            user.
           </p>
-          <p>
+          <!-- <p>
             Consectetur consectetur nesciunt nesciunt blanditiis amet? Quod quis
             unde aliquid excepturi laudantium? Illo architecto aliquam velit
             illo magnam neque perferendis sint Incidunt eius ipsa inventore
             labore eos velit. Minus hic magni reiciendis necessitatibus ex
             Quidem officia deleniti accusamus obcaecati dolores. Porro culpa
             quibusdam impedit porro praesentium excepturi. Alias ab consequatur?
-          </p>
+          </p> -->
         </a-col>
         <a-col :span="9">
           <h3>Personal Information</h3>
@@ -38,7 +41,13 @@
               <a href="tel:9595756168" rel="noreferrer">9595756168</a>
             </p>
           </div>
-          <a class="resume-btn" href="#">
+          <a
+            class="resume-btn"
+            href="/React_Developer_Deepak.pdf"
+            rel="noreferrer"
+            target="_blank"
+            download
+          >
             <div class="overlay"></div>
             Download Resume</a
           >
