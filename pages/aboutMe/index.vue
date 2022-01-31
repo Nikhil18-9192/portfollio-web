@@ -14,14 +14,19 @@
             accessible across multiple devices providing seamless experience to
             user.
           </p>
-          <!-- <p>
-            Consectetur consectetur nesciunt nesciunt blanditiis amet? Quod quis
-            unde aliquid excepturi laudantium? Illo architecto aliquam velit
-            illo magnam neque perferendis sint Incidunt eius ipsa inventore
-            labore eos velit. Minus hic magni reiciendis necessitatibus ex
-            Quidem officia deleniti accusamus obcaecati dolores. Porro culpa
-            quibusdam impedit porro praesentium excepturi. Alias ab consequatur?
-          </p> -->
+          <p>
+            Having Good Experince in Developing Websites using NuxtJS and
+            NextJS. Proficient with API integration. Work Extensively for Making
+            REST API’s using Strapi. Good at executing projects involving: REST
+            API integration , Building React components using hooks. Hands on
+            Experience for translating Figma designs and wireframes into high
+            quality code. Good Understanding of JavaScript Testing Frameworks
+            like Cypress , JEST. Work on Firebase authentication. Work on
+            various google API’s like google chart, google Map etc. Proficient
+            in using various UI framework like BootStrap , Tailwind ,antd etc.
+            Having Good hands-on experience of apollo graphql. Good at writing
+            of JavaScript code.
+          </p>
         </a-col>
         <a-col :span="9">
           <h3>Personal Information</h3>
@@ -62,8 +67,8 @@
             <a-icon class="service-icon" type="laptop" />
             <h4>Web Development</h4>
             <p>
-              Amet aspernatur delectus maxime ducimus similique Ratione
-              asperiores corporis provident aut libero.
+              Having a good experienc in Creating a web sites using nuxtJs,
+              vueJs, NextJs etc.
             </p>
           </div>
         </a-col>
@@ -72,8 +77,8 @@
             <a-icon class="service-icon" type="eye" />
             <h4>Web Design</h4>
             <p>
-              Amet aspernatur delectus maxime ducimus similique Ratione
-              asperiores corporis provident aut libero.
+              Having a good experienc in converting figma designs into web
+              designs.
             </p>
           </div>
         </a-col>
@@ -81,10 +86,7 @@
           <div class="service-card">
             <a-icon class="service-icon" type="api" />
             <h4>Api Integration</h4>
-            <p>
-              Amet aspernatur delectus maxime ducimus similique Ratione
-              asperiores corporis provident aut libero.
-            </p>
+            <p>Having Good Experience in Api integration or binding Api's.</p>
           </div>
         </a-col>
         <a-col :span="6">
@@ -92,8 +94,7 @@
             <a-icon class="service-icon" type="mobile" />
             <h4>Responsive Design</h4>
             <p>
-              Amet aspernatur delectus maxime ducimus similique Ratione
-              asperiores corporis provident aut libero.
+              Experience in Making of Responsive and Pixel perfect Web Designs.
             </p>
           </div>
         </a-col>

@@ -13,9 +13,12 @@
                 <h4>Senior Front-End Developer</h4>
                 <h5>Cleverground Technology, Pune</h5>
                 <p class="info">
-                  Sit cupiditate praesentium ex esse nulla Facere fuga
-                  perspiciatis eveniet provident neque Ea ratione non minus
-                  temporibus ipsum Sunt minima
+                  Working on LMS product,Worked Extensively in ReactJS,Building
+                  React Components using hooks,Binding API’s,Designing of
+                  Responsive User Interface using React BootStrap , antd
+                  etc.Interacting with support team to solve development
+                  issues.Working on various modules of product.Design and
+                  Develop New Modules as per product requirement.
                 </p>
               </div>
               <div class="year">
@@ -26,12 +29,15 @@
             <li>
               <span class="left-line"></span>
               <div class="content">
-                <h4>Front-End Developer</h4>
+                <h4>Junior Web Developer</h4>
                 <h5>Formec Media LLP, Kolhapur</h5>
                 <p class="info">
-                  Sit cupiditate praesentium ex esse nulla Facere fuga
-                  perspiciatis eveniet provident neque Ea ratione non minus
-                  temporibus ipsum Sunt minima
+                  Design and Develop websites using VueJS and NuxtJS.Handling
+                  individual projects.Interacting with client to know
+                  requirements. Converting Figma Design and Wireframing in Pixel
+                  perfect Web Pages.Create REST API’s using Nodejs CMS framework
+                  Strapi.Performing of End-to-End Testing using Cypress.Binding
+                  API’s. Write test cases using Cypress and Jest framework.
                 </p>
               </div>
               <div class="year">
