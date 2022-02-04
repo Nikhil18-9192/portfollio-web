@@ -2,7 +2,7 @@
   <div class="home-bg">
     <div class="blur"></div>
     <div class="title">
-      <h1>Nikhil <span>Korane</span></h1>
+      <h1>Deepak <span>Korane</span></h1>
       <p class="sub-text">I am a <span>Front-end Developer</span></p>
     </div>
   </div>

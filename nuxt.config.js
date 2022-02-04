@@ -4,7 +4,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   pageTransition: 'my-page',
   server: {
-    port: 5000,
+    port: process.env.PORT || 5000,
     host: '0.0.0.0',
   },
   head: {
