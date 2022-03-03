@@ -31,7 +31,7 @@
         <a-col :span="9">
           <h3>Personal Information</h3>
           <div class="info">
-            <p><span>Name</span> : Nikhil Korane</p>
+            <p><span>Name</span> : Deepak Korane</p>
             <p><span>Age</span> : 27 years</p>
             <p><span>Residence</span> : Kolhapur, India</p>
             <p><span>Address</span> : 1352, A ward, Laxtirth, 416010</p>
